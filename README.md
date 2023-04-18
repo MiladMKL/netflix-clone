@@ -8,9 +8,9 @@ Introducing a Netflix clone project, created using Next.js and Tailwind CSS. The
 
 I developed this project as a way to enhance my web development skills and explore the capabilities of Next.js and Tailwind CSS. As I continue to hone my web development skills, this project serves as a valuable example of how these tools can be leveraged to produce high-quality results.
 
-Note: Although the app has a functional authentication feature with NextAuth, it has been disabled for demonstration purposes.
+**Note:** Although the app has a functional authentication feature with NextAuth, it has been disabled for demonstration purposes.
 
-Feel free to explore the code and customize it as needed. Thank you for taking an interest in my Netflix clone project.
+Feel free to explore the code and customize it as needed.
 
 ## Live Demo
 
