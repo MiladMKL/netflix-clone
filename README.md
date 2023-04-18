@@ -18,19 +18,19 @@ Feel free to explore the code and customize it as needed.
 
 ## Screenshots
 
-**Hompage:**
+**Main:**
 
 ![Homepage Feed](/public/images/screenshot1.png "Homepage Feed")
 
 <br/>
 
-**Video Detail:**
+**Movie Detail:**
 
 ![Video Detail](/public/images/screenshot2.png "Video Detail")
 
 <br/>
 
-**Video Channel:**
+**Movie Trailer:**
 
 ![Video Channel](/public/images/screenshot3.png "Video Channel")
 
