@@ -1,6 +1,6 @@
-# Rumble Clone
+# Netflix Clone
 
-A simple Rumble clone built with Next.js, Tailwind CSS and RapidAPI.
+A simple Netflix clone built with Next.js, Tailwind CSS, NextAuth and Movie Database (TMDB).
 
 ## About
 
